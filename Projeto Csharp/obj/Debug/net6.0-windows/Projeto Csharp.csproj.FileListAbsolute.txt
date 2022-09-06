@@ -1,0 +1,60 @@
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\bin\Debug\net6.0-windows\Projeto Csharp.exe
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\bin\Debug\net6.0-windows\Projeto Csharp.deps.json
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\bin\Debug\net6.0-windows\Projeto Csharp.runtimeconfig.json
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\bin\Debug\net6.0-windows\Projeto Csharp.dll
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\bin\Debug\net6.0-windows\Projeto Csharp.pdb
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.csproj.AssemblyReference.cache
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto_Csharp.Properties.Resources.resources
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto_Csharp.Fr_Login.resources
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto_Csharp.View.Fr_Sign.resources
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.csproj.GenerateResource.cache
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.AssemblyInfoInputs.cache
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.AssemblyInfo.cs
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.dll
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\refint\Projeto Csharp.dll
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.pdb
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.genruntimeconfig.cache
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\ref\Projeto Csharp.dll
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.csproj.CopyComplete
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto_Csharp.View.Fr_PacientSign.resources
+C:\Users\Adil Jamal\source\repos\Projeto Csharp\obj\Debug\net6.0-windows\Projeto_Csharp.Form1.resources
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.csproj.AssemblyReference.cache
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto_Csharp.Properties.Resources.resources
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto_Csharp.Fr_Login.resources
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto_Csharp.View.Fr_PacientSign.resources
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto_Csharp.View.Fr_Sign.resources
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Emergencia.Mainform.resources
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.csproj.GenerateResource.cache
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.AssemblyInfoInputs.cache
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.AssemblyInfo.cs
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.dll
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\refint\Projeto Csharp.dll
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.pdb
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\bin\Debug\net6.0-windows\Projeto Csharp.exe
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\bin\Debug\net6.0-windows\Projeto Csharp.deps.json
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\bin\Debug\net6.0-windows\Projeto Csharp.runtimeconfig.json
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\bin\Debug\net6.0-windows\Projeto Csharp.dll
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\bin\Debug\net6.0-windows\Projeto Csharp.pdb
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.csproj.CopyComplete
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto Csharp.genruntimeconfig.cache
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\ref\Projeto Csharp.dll
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto_Csharp.Fr_Home.resources
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto_Csharp.View.Fr_PacientData.resources
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Emergencia.View.formHome.resources
+C:\Users\Adil Jamal\Desktop\Projeto Csharp\obj\Debug\net6.0-windows\Projeto_Csharp.View.Fr_sobre.resources
